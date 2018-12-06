@@ -1,0 +1,18 @@
+s\Feature\Example
+ [x] Basic test
+
+s\Feature\GetTranslated
+ [x] Get translated successfully
+
+s\Feature\GetTranslatedWord
+ [x] Example
+
+s\Feature\GetWaiting
+ [x] Example
+
+s\Feature\Translate
+ [ ] Example
+
+s\Unit\Example
+ [x] Basic test
+
