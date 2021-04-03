@@ -10,7 +10,7 @@ use App\Translated;
 // https://cloud.google.com/translate/docs/reference/rest
 class TranslateApiController extends Controller
 {
-	protected $api_key = 'AIzaSyCtjzseee7bRzBnJnXuKaReLFAxH-nisx0';
+	protected $api_key = '';
 	protected $request;
 
     public function __construct(TextInterface $textI,Translated $translated_text, Request $request)
